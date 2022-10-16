@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+    },
+    "files":
+    [
+    /* 
+      "test.ts",
+      "test1.ts",
+      */
+      "test2.ts",
+      "test2.types.d.ts"
+    ]
+  }  
