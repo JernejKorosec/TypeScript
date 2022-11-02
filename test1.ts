@@ -25,3 +25,4 @@ const person = {
 function addNumbers(numberOne:number, numberTwo:number) {
     return numberOne + numberTwo
     }
+

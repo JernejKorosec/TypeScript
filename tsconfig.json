@@ -4,7 +4,15 @@
       "strictNullChecks": true,
       "removeComments": true,
       "preserveConstEnums": true,
-      "sourceMap": true
+      "sourceMap": true,
+      /* Od tu naprej so dodane nastavitve */
+      "target": "ES2020",
+      "module": "es2020",
+      "allowJs": true,
+      "checkJs": true,
+      "typeRoots": [ "@types", "node_modules/@types" ],
+      "esModuleInterop": true,
+      /* Nastavitve so dodane od tu naprej */
     },
     "files":
     [
@@ -13,6 +21,7 @@
       "test1.ts",
       */
       "test2.ts",
-      "test2.types.d.ts"
+      "test2.types.d.ts",
+      "test3.ts"
     ]
   }  

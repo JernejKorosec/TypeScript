@@ -49,7 +49,7 @@ function storageUsed()
 /**
 * @ param {StorageItem} item
 */
-//function add(item) 
+//function add2(item) 
 function add(item: { weight: number }) 
 {
     //if(storage.max - item.weight >= storageUsed) 
